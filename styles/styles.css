@@ -69,7 +69,7 @@ body {
     position: absolute;
     top: 60%;
     left: 50%;
-    filter: blur(2.5px);
+    filter: blur(5px);
     transform: translate(-50%, -50%);
     margin: 0 auto;
     object-fit: cover;
@@ -81,7 +81,7 @@ body {
     position: absolute;
     top: 40%;
     color: white;
-    font-size: 1em;
+    font-size: 5em;
     text-align: center;
     font-weight: bold;
     font-family: 'Minecraftcn';
@@ -105,7 +105,7 @@ body {
     position: absolute;
     top: 55%;
     color: white;
-    font-size: 0.5em;
+    font-size: 2.5em;
     text-align: center;
     font-weight: bold;
     font-family: 'Minecraft';
