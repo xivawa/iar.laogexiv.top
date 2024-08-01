@@ -157,7 +157,7 @@ body {
     left: 50%;
     position: absolute;
     color: rgba(255, 255, 255, 0);
-    font-size: 5px;
+    font-size: 5em;
     transition: color 0.5s ease;
     font-family: 'Minecraftcn';
     /* text-align: center; */
