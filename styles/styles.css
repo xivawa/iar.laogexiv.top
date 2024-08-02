@@ -81,7 +81,7 @@ body {
     position: absolute;
     top: 40%;
     color: white;
-    font-size: 10em;
+    font-size: 5em;
     text-align: center;
     font-weight: bold;
     font-family: 'Minecraftcn';
@@ -105,7 +105,7 @@ body {
     position: absolute;
     top: 55%;
     color: white;
-    font-size: 10em;
+    font-size: 5em;
     text-align: center;
     font-weight: bold;
     font-family: 'Minecraft';
@@ -157,7 +157,7 @@ body {
     left: 50%;
     position: absolute;
     color: rgba(255, 255, 255, 0);
-    font-size: 5em;
+    font-size: 2.5em;
     transition: color 0.5s ease;
     font-family: 'Minecraftcn';
     /* text-align: center; */
